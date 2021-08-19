@@ -1,2 +1,2 @@
 # DevOps
-Personal Automatons related to DevOps
+Personal automations related to DevOps
